@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - writing a C program to print using puts function
- * return: 0 (success)
+ * main - Writing a c program to print with puts function
+ * Return: 0 (Success)
  */
 int main(void)
 {
